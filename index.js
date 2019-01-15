@@ -25,6 +25,7 @@ function sayHiToGrandma(string){
     return 'I can\'t hear you!'
   }
 
+<<<<<<< HEAD
   else if (string === string.toUpperCase()) {
 
     return 'YES INDEED!'
@@ -34,4 +35,6 @@ function sayHiToGrandma(string){
 
     return 'I love you, too.'
   }
+=======
+>>>>>>> a44800db3a65b5017254623fcbf2eae3ee88cc8f
 }
